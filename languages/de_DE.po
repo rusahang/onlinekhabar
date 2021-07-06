@@ -1,0 +1,268 @@
+# Copyright (C) 2021 onlinekhabar
+# This file is distributed under the same license as the onlinekhabar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: onlinekhabar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid "Nothing found here, maybe you can try to search?"
+msgstr ""
+
+#: archive-onlinekhabar_portfolio.php:12, taxonomy-onlinekhabar_project_type.php:12,
+#: taxonomy-onlinekhabar_skills.php:12
+msgid "Sorry, no posts matched criteria."
+msgstr ""
+
+#: author.php:19, template-parts/single/author.php:26
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1 is number of comments and 2 is post title
+#: comments.php:14
+msgid "%1$s Reply to \"%2$s\""
+msgid_plural "%1$s Replies to \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41
+msgid "Comments are closed for this post"
+msgstr ""
+
+#: header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:32
+msgid "Main Navigation"
+msgstr ""
+
+#: search.php:8
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: lib/comment-callback.php:10
+msgid "Edit Comment"
+msgstr ""
+
+#: lib/comment-callback.php:21
+msgid "%s ago"
+msgstr ""
+
+#: lib/comment-callback.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/customize.php:18
+msgid "Single Blog Options"
+msgstr ""
+
+#: lib/customize.php:19
+msgid "You can change single blog options from here."
+msgstr ""
+
+#: lib/customize.php:31
+msgid "Show Author Info"
+msgstr ""
+
+#: lib/customize.php:46
+msgid "General Options"
+msgstr ""
+
+#: lib/customize.php:47
+msgid "You can change general options from here."
+msgstr ""
+
+#: lib/customize.php:57
+msgid "Accent Color"
+msgstr ""
+
+#: lib/customize.php:69
+msgid "Portfolio Slug"
+msgstr ""
+
+#: lib/customize.php:70
+msgid "Will appear in the archive url"
+msgstr ""
+
+#: lib/customize.php:87
+msgid "Footer Options"
+msgstr ""
+
+#: lib/customize.php:88
+msgid "You can change footer options from here."
+msgstr ""
+
+#: lib/customize.php:98
+msgid "Copyright Info"
+msgstr ""
+
+#: lib/customize.php:110
+msgid "Footer Background"
+msgstr ""
+
+#: lib/customize.php:112
+msgid "Light"
+msgstr ""
+
+#: lib/customize.php:113
+msgid "Dark"
+msgstr ""
+
+#: lib/customize.php:127
+msgid "Footer Layout"
+msgstr ""
+
+#: lib/customize.php:136
+msgid "Footer layout is invalid"
+msgstr ""
+
+#: lib/helpers.php:7
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: Post Author
+#: lib/helpers.php:12
+msgid " By %s"
+msgstr ""
+
+#: lib/helpers.php:23
+msgid "Read More <span class=\"u-screen-reader-text\">About %s </span>"
+msgstr "Lesen Sie mehr <span class=“u-screen-reader-text”>Über %s </span>"
+
+#: lib/helpers.php:42
+msgid "Delete Post"
+msgstr ""
+
+#: lib/most-recent-widget.php:16
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/most-recent-widget.php:18
+msgid "Your site’s most recent Posts, Custom Widget."
+msgstr ""
+
+#: lib/most-recent-widget.php:51
+msgid "Title:"
+msgstr ""
+
+#: lib/most-recent-widget.php:57
+msgid "Number Of Posts:"
+msgstr ""
+
+#: lib/most-recent-widget.php:66
+msgid "Include Date?"
+msgstr ""
+
+#: lib/most-recent-widget.php:69
+msgid "Sort By:"
+msgstr ""
+
+#: lib/most-recent-widget.php:72
+msgid "Most Recent"
+msgstr ""
+
+#: lib/most-recent-widget.php:73
+msgid "Random"
+msgstr ""
+
+#: lib/most-recent-widget.php:75
+msgid "Number Of Comments"
+msgstr ""
+
+#: lib/navigation.php:5
+msgid "Main Menu"
+msgstr ""
+
+#: lib/navigation.php:6
+msgid "Footer Menu"
+msgstr ""
+
+#: lib/navigation.php:24
+msgid "Show %s submenu"
+msgstr ""
+
+#: lib/navigation.php:25
+msgid "Hide %s submenu"
+msgstr ""
+
+#: lib/sidebars.php:6
+msgid "Primary Sidebar"
+msgstr ""
+
+#: lib/sidebars.php:7
+msgid "This Sidebar appears in the blog posts page."
+msgstr ""
+
+#: lib/sidebars.php:29
+msgid "Footer Widgets Column %s"
+msgstr ""
+
+#: lib/sidebars.php:30
+msgid "Footer Widgets"
+msgstr ""
+
+#: page-templates/page-blank.php:3
+msgid "Blank"
+msgstr ""
+
+#: page-templates/page-full.php:3
+msgid "Full Width Page"
+msgstr ""
+
+#. translators: used between categories
+#: template-parts/post/footer.php:6
+msgid ", "
+msgstr ""
+
+#. translators: %s is categories list
+#: template-parts/post/footer.php:8
+msgid "Posted in %s"
+msgstr ""
+
+#: template-parts/single/author.php:2
+msgid "About The Author"
+msgstr ""
+
+#: template-parts/single/navigation.php:8
+msgid "Post Navigation"
+msgstr ""
+
+#: template-parts/single/navigation.php:20
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/single/navigation.php:39
+msgid "Next Post"
+msgstr ""
