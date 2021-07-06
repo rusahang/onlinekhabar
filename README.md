@@ -22,7 +22,7 @@ also suggestion are welcome
 
 # Onlinekhabar News Theme is best WordPress theme.
 
-!["Onlinekhabar News Theme is best WordPress theme."](https://github.com/rusahang/onlinekhabar/blob/master/screenshot%20/onlinekhabar-front.jpg "Onlinekhabar News Theme is best WordPress theme.")
+!["Onlinekhabar News Theme is best WordPress theme."](https://github.com/rusahang/onlinekhabar/blob/main/screenshot/onlinekhabar-front.jpg "Onlinekhabar News Theme is best WordPress theme.")
 
 Description
 
